@@ -1,4 +1,133 @@
 {
-  "about": "TODO(dataset): written by inventory-app's scripts/minisites/legacy-minisite.mjs, with every picture of the frame taken from the legacy exhibition.",
-  "files": {}
+  "about": "The frame this website takes from legacy Discover Islamic Art's virtual exhibition The Atabegs and Ayyubids (exhibitions/ISL/the_ayyubids/), each file as legacy serves it, byte for byte; the curators' logos come from the exhibitions' shared sponsor_logo folder. tests/assets.test.js checks every file against its hash. Legacy drew no Swedish map (map_se.jpg): the map window shows none in Swedish.",
+  "files": {
+    "theme/assets/legacy/arrow_inner_black.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/arrow_inner_black.gif",
+      "sha256": "a969e5e62fe3c75dcb4e05ef1ca4e38f67a528916db802c229511b44567bd87a"
+    },
+    "theme/assets/legacy/bg_fading_left.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/bg_fading_left.gif",
+      "sha256": "f3dad95286c102ce4fadb8d2b56b9b7af541c7db653ffabc72f1c8796498930a"
+    },
+    "theme/assets/legacy/bg_fading_right.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/bg_fading_right.gif",
+      "sha256": "4475de38c2b08da9b1d71c40aabe483abd83875f93d5507f06d3d558f95a575b"
+    },
+    "theme/assets/legacy/BM-15.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/BM-15.gif",
+      "sha256": "f36c526a064f93dd9b87781ff98dc420798d22b7a9049b8a9272e9ddbbb92a8a"
+    },
+    "theme/assets/legacy/exhibition_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/exhibition_bg_ar.jpg",
+      "sha256": "1b39d026fe31560b204e76e2ad88538d55de3a74252d03408f7e7b1e9138c716"
+    },
+    "theme/assets/legacy/exhibition_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/exhibition_bg.jpg",
+      "sha256": "09abf7dc015c0d57fa6e616f0d8835b25f3c1e5cb4cf1b56c53d3c32201430a2"
+    },
+    "theme/assets/legacy/home_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/home_bg_ar.jpg",
+      "sha256": "3bd1230e9a98a03d4d60229dd72da5cc60dce56de21d1b6831b33c037dd73732"
+    },
+    "theme/assets/legacy/home_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/home_bg.jpg",
+      "sha256": "9c893bfdd1704c5d9facbb73f5d74824785bcdd0ea9b0aa2db9aece88777da26"
+    },
+    "theme/assets/legacy/ico_item_selected.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/ico_item_selected.gif",
+      "sha256": "8e4e35eebb1dda3a1495a2dc7a9d1a4611d9118f3f683a269823da701989feb5"
+    },
+    "theme/assets/legacy/ico_item.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/ico_item.gif",
+      "sha256": "0b630172707e2ed687751dd70acb096ef905a3ee56421c650c227520e10030c8"
+    },
+    "theme/assets/legacy/intro_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/intro_bg_ar.jpg",
+      "sha256": "b86f5e5fd3c0277fcf96172e80485f66bc72beca6b6630f62ffd2b258a674b9c"
+    },
+    "theme/assets/legacy/intro_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/intro_bg.jpg",
+      "sha256": "ac3c71d6b8d2f6a7c48408cc071fede2db5df46cf06096e5efa1d6351ec4831a"
+    },
+    "theme/assets/legacy/intro_map_thumb.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/intro_map_thumb.jpg",
+      "sha256": "fb4e1c4e297c6375dabb77cd96044d3064f81122f9ac1496c795462e4c62cf69"
+    },
+    "theme/assets/legacy/logo_ar.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/logo_ar.gif",
+      "sha256": "7f51c2a0e1a908f4e560523c2e93b4ee9a85cd365feb48257bf3b3e58a5142ae"
+    },
+    "theme/assets/legacy/logo_de.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/logo_de.gif",
+      "sha256": "76424248d962a1173a2a27771c1cf684e5adce83d82c3c2ece0684d5d52d847e"
+    },
+    "theme/assets/legacy/logo_en.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/logo_en.gif",
+      "sha256": "b30424e99e2e95a10b336847afb6db383ed3f98a39f74bb9c8cf1822c61fd355"
+    },
+    "theme/assets/legacy/logo_es.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/logo_es.gif",
+      "sha256": "b0e042e411956b4a7912cc985d70f037a14aa4b82150589df757ac9bc3c1426b"
+    },
+    "theme/assets/legacy/logo_fr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/logo_fr.gif",
+      "sha256": "fd70127b168a839dccb3eec3d857846d25273b6edc4d24ee13ddb6fa0520083a"
+    },
+    "theme/assets/legacy/logo_it.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/logo_it.gif",
+      "sha256": "fc3429c0b1313542d5a3b79cd2b043b73b21a7f2c7ad1e28784ed7b941a59aa0"
+    },
+    "theme/assets/legacy/logo_pt.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/logo_pt.gif",
+      "sha256": "c5316b893a794d7898fcaaacc5b9c0c51e0c5e11fcaceb5be77747a485043ca7"
+    },
+    "theme/assets/legacy/logo_se.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/logo_se.gif",
+      "sha256": "b7f99b6269e5682d8554c42f78410fc95c146a60c79d3ce55d55426c880b717e"
+    },
+    "theme/assets/legacy/logo_tr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/logo_tr.gif",
+      "sha256": "86306e8e7fa31fed5c018e9c8510d5043b88e52312de07335e40307e3565cc06"
+    },
+    "theme/assets/legacy/map_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/map_ar.jpg",
+      "sha256": "7bce93a32c6241045c26ab3437daa06f9111108b5a4c7850673bf4938cad7158"
+    },
+    "theme/assets/legacy/map_de.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/map_de.jpg",
+      "sha256": "4b0d744df935490bab71c7c1c157232b1f1cb628b3a17ca8180c3cd7aed669b1"
+    },
+    "theme/assets/legacy/map_en.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/map_en.jpg",
+      "sha256": "28124d2c5def8b18d66b12619050c6eefe361cce3ec75a23055c2747ff060cbf"
+    },
+    "theme/assets/legacy/map_es.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/map_es.jpg",
+      "sha256": "aabeaf843aea6ab1a2fdf29d4e7b048c0fe0237eff89a9e28bda27eca992cd01"
+    },
+    "theme/assets/legacy/map_fr.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/map_fr.jpg",
+      "sha256": "51085f711fbcfc1ff54bf945d062607f6078d74f6442056ea393ca669aa034a8"
+    },
+    "theme/assets/legacy/map_it.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/map_it.jpg",
+      "sha256": "3fb9499369c1a278bde8e27bcceea9206186f17e1315e4838dcf35d56d254614"
+    },
+    "theme/assets/legacy/map_pt.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/map_pt.jpg",
+      "sha256": "8954974d982c29939ef775b932b79dce2a1c524bf9ce3b03569f5ff6dc723fd1"
+    },
+    "theme/assets/legacy/map_tr.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/map_tr.jpg",
+      "sha256": "d6c3229fcba5594830221803e9e9502f312e00406c2904150d35b8ec447b4e70"
+    },
+    "theme/assets/legacy/print_dark.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_ayyubids/images/print_dark.gif",
+      "sha256": "49894d52c06b6f8e1c29b0b3f82245bcd3f439108e4cd3a7c4f16360ed896742"
+    },
+    "theme/assets/legacy/SY-15.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/SY-15.gif",
+      "sha256": "e3e6c0359b38c73c681b1b43e55345a8e8c17666ff95dcc0e55d6f0cdafa5c55"
+    }
+  }
 }
